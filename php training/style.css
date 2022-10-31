@@ -1,0 +1,29 @@
+table {
+    width: 100%; /* Ширина таблицы */
+    background: white; /* Цвет фона таблицы */
+    color: white; /* Цвет текста */
+    border-spacing: none; /* Расстояние между ячейками */
+}
+tr, td {
+    background: rgb(33, 193, 81); /* Цвет фона ячеек */
+    padding: 5px; /* Поля вокруг текста */
+    border: solid 1px black;
+    width: 50px;
+    color: black;
+}
+#second {
+    margin-top: 100px;
+}
+#secondTd {
+    padding: 6px;
+}
+#third {
+    padding-top: 20px;
+}
+#thirdTd {
+    padding: 6px;
+}
+p{
+    margin-top: 50px;
+    font-size: 50px;
+}
